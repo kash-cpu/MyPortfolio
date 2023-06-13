@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+PHP/AJAX contact form script will be here for the complete and upto date version. A lot of work will be done on sabiam in the future.
